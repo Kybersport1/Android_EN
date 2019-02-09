@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">Комунальне господарство</string>
+    <string name="textView2">В роботі</string>
+    <string name="textView3">Створено</string>
+    <string name="textView4">27 січня 2016</string>
+    <string name="textView5">Зареєстровано</string>
+    <string name="textView8">27 січня 2016</string>
+    <string name="textView9">Виконати до</string>
+    <string name="textView10">27 січня 2016</string>
+    <string name="textView11">ВІдповідальний</string>
+    <string name="textView12">Дніпропетровський МВК</string>
+    <string name="textView13">Колись-то давно, не з моєї памяті, мабуть, ще й батьків ідідів наших не було на світі, жив собі убогий чоловік з жінкою, а у них був одним один син, та й той не такий як треба: таке ледащо той одинчик, що господи!</string>
+</resources>
